@@ -16,6 +16,7 @@
 		8B8827D62B4B4FDD00376437 /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8827D52B4B4FDD00376437 /* AsyncAwaitBootcamp.swift */; };
 		8B8827D82B4B96DB00376437 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8827D72B4B96DB00376437 /* TaskBootcamp.swift */; };
 		8B8827DA2B4BC8F100376437 /* AsyncLetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8827D92B4BC8F100376437 /* AsyncLetBootcamp.swift */; };
+		8BC480EC2B4CBFD7000D6221 /* TaskGroubBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480EB2B4CBFD7000D6221 /* TaskGroubBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8B8827D52B4B4FDD00376437 /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
 		8B8827D72B4B96DB00376437 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 		8B8827D92B4BC8F100376437 /* AsyncLetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootcamp.swift; sourceTree = "<group>"; };
+		8BC480EB2B4CBFD7000D6221 /* TaskGroubBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroubBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				8B8827D52B4B4FDD00376437 /* AsyncAwaitBootcamp.swift */,
 				8B8827D72B4B96DB00376437 /* TaskBootcamp.swift */,
 				8B8827D92B4BC8F100376437 /* AsyncLetBootcamp.swift */,
+				8BC480EB2B4CBFD7000D6221 /* TaskGroubBootcamp.swift */,
 				8B8827C52B4B271A00376437 /* Assets.xcassets */,
 				8B8827C72B4B271A00376437 /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B8827D22B4B27BF00376437 /* DoCatchTryThrowsBootcamp.swift in Sources */,
+				8BC480EC2B4CBFD7000D6221 /* TaskGroubBootcamp.swift in Sources */,
 				8B8827C42B4B271800376437 /* ContentView.swift in Sources */,
 				8B8827D42B4B353000376437 /* DownloadImageAsyncBootcamp.swift in Sources */,
 				8B8827D82B4B96DB00376437 /* TaskBootcamp.swift in Sources */,
