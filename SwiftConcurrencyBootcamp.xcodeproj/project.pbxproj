@@ -20,6 +20,7 @@
 		8BC480EE2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480ED2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift */; };
 		8BC480F02B4CE5FE000D6221 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480EF2B4CE5FE000D6221 /* StructClassActorBootcamp.swift */; };
 		8BC480F22B4DE207000D6221 /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F12B4DE207000D6221 /* ActorsBootcamp.swift */; };
+		8BC480F42B4E2DE1000D6221 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		8BC480ED2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationBootcamp.swift; sourceTree = "<group>"; };
 		8BC480EF2B4CE5FE000D6221 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		8BC480F12B4DE207000D6221 /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
+		8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8BC480ED2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift */,
 				8BC480EF2B4CE5FE000D6221 /* StructClassActorBootcamp.swift */,
 				8BC480F12B4DE207000D6221 /* ActorsBootcamp.swift */,
+				8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */,
 				8B8827C52B4B271A00376437 /* Assets.xcassets */,
 				8B8827C72B4B271A00376437 /* Preview Content */,
 			);
@@ -171,6 +174,7 @@
 				8BC480EE2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift in Sources */,
 				8BC480F02B4CE5FE000D6221 /* StructClassActorBootcamp.swift in Sources */,
 				8B8827D42B4B353000376437 /* DownloadImageAsyncBootcamp.swift in Sources */,
+				8BC480F42B4E2DE1000D6221 /* GlobalActorBootcamp.swift in Sources */,
 				8B8827D82B4B96DB00376437 /* TaskBootcamp.swift in Sources */,
 				8B8827D62B4B4FDD00376437 /* AsyncAwaitBootcamp.swift in Sources */,
 				8B8827C22B4B271800376437 /* SwiftConcurrencyBootcampApp.swift in Sources */,
