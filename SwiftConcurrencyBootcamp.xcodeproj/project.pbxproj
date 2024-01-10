@@ -23,6 +23,7 @@
 		8BC480F42B4E2DE1000D6221 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */; };
 		8BC480F62B4E3612000D6221 /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F52B4E3612000D6221 /* SendableBootcamp.swift */; };
 		8BC480F82B4E3FD2000D6221 /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F72B4E3FD2000D6221 /* AsyncPublisherBootcamp.swift */; };
+		8BC480FA2B4E4D56000D6221 /* ReferencesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC480F92B4E4D56000D6221 /* ReferencesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 		8BC480F52B4E3612000D6221 /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
 		8BC480F72B4E3FD2000D6221 /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
+		8BC480F92B4E4D56000D6221 /* ReferencesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferencesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				8BC480F32B4E2DE1000D6221 /* GlobalActorBootcamp.swift */,
 				8BC480F52B4E3612000D6221 /* SendableBootcamp.swift */,
 				8BC480F72B4E3FD2000D6221 /* AsyncPublisherBootcamp.swift */,
+				8BC480F92B4E4D56000D6221 /* ReferencesBootcamp.swift */,
 				8B8827C52B4B271A00376437 /* Assets.xcassets */,
 				8B8827C72B4B271A00376437 /* Preview Content */,
 			);
@@ -176,6 +179,7 @@
 				8B8827D22B4B27BF00376437 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				8BC480EC2B4CBFD7000D6221 /* TaskGroubBootcamp.swift in Sources */,
 				8B8827C42B4B271800376437 /* ContentView.swift in Sources */,
+				8BC480FA2B4E4D56000D6221 /* ReferencesBootcamp.swift in Sources */,
 				8BC480F62B4E3612000D6221 /* SendableBootcamp.swift in Sources */,
 				8BC480F22B4DE207000D6221 /* ActorsBootcamp.swift in Sources */,
 				8BC480EE2B4CDB50000D6221 /* CheckedContinuationBootcamp.swift in Sources */,
