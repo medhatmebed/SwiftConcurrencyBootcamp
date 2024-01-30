@@ -96,7 +96,7 @@ struct CheckedContinuationBootcamp: View {
             }
         }
         .task {
-            await viewModel.getHeartImageWithcontinuation()
+            await viewModel.getData()
         }
     }
 }
